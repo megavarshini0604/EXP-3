@@ -39,7 +39,8 @@
 ### DIRECT CONNECTION: 
 #### CIRCUIT DIAGRAM: 
 
-<img width="1236" height="706" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/6f99d017-da43-4ebf-bee1-20f45392694d" />
+<img width="991" height="610" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/06431904-9f94-4c27-ba12-c470a5faa03c" />
+
 
 <img width="1073" height="540" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/004fc1bd-0381-416a-86d4-53d072358aa2" />
 
